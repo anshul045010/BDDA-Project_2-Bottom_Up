@@ -1,4 +1,4 @@
-# Supermart ERD Documentation
+# Supermart Database
 
 ## Overview
 This repository contains the Entity-Relationship Diagram (ERD) and accompanying database schema documentation for the Supermart system. The ERD outlines the relationships and attributes of various entities such as Customers, Invoices, Products, Discounts, and Payments within the system.
